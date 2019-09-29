@@ -1,6 +1,3 @@
-import java.lang.Exception
-import java.lang.NumberFormatException
-
 /**
 Double 64
 Float  32

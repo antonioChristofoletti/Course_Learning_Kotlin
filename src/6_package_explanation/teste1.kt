@@ -1,4 +1,4 @@
-package `package`
+package `6_package_explanation`
 
 fun main() {
     callHelloWorld()
