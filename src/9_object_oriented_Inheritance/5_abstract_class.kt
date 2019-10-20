@@ -9,7 +9,6 @@ abstract class Manifero(var nome: String){
     fun dormir(){}
 }
 
-
 class Cachorro(nome: String, peso : Float) : Manifero(nome){
 
     init {
